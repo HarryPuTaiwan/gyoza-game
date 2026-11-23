@@ -1,0 +1,131 @@
+{
+  "name": "最佳化：五天任務全拿、零報廢",
+  "pack": "official",
+  "days": [
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 22,
+          "price": 60
+        },
+        {
+          "name": "紅茶",
+          "qty": 19,
+          "price": 35
+        },
+        {
+          "name": "玉米鍋貼",
+          "qty": 7,
+          "price": 80
+        },
+        {
+          "name": "酸辣湯",
+          "qty": 7,
+          "price": 45
+        }
+      ],
+      "promoCost": 200
+    },
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 21,
+          "price": 60
+        },
+        {
+          "name": "玉米鍋貼",
+          "qty": 13,
+          "price": 80
+        },
+        {
+          "name": "酸辣湯",
+          "qty": 21,
+          "price": 35
+        },
+        {
+          "name": "紅茶",
+          "qty": 19,
+          "price": 35
+        }
+      ],
+      "promoCost": 200
+    },
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 44,
+          "price": 90
+        },
+        {
+          "name": "玉米鍋貼",
+          "qty": 12,
+          "price": 100
+        },
+        {
+          "name": "酸辣湯",
+          "qty": 12,
+          "price": 45
+        },
+        {
+          "name": "豆漿",
+          "qty": 12,
+          "price": 35
+        }
+      ],
+      "promoCost": 500
+    },
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 26,
+          "price": 60
+        },
+        {
+          "name": "紅茶",
+          "qty": 26,
+          "price": 35
+        },
+        {
+          "name": "玉米鍋貼",
+          "qty": 18,
+          "price": 80
+        },
+        {
+          "name": "酸辣湯",
+          "qty": 10,
+          "price": 45
+        }
+      ],
+      "promoCost": 200
+    },
+    {
+      "items": [
+        {
+          "name": "玉米鍋貼",
+          "qty": 28,
+          "price": 100
+        },
+        {
+          "name": "酸辣湯",
+          "qty": 27,
+          "price": 45
+        },
+        {
+          "name": "招牌鍋貼",
+          "qty": 20,
+          "price": 90
+        },
+        {
+          "name": "豆漿",
+          "qty": 5,
+          "price": 35
+        }
+      ],
+      "promoCost": 200
+    }
+  ]
+}
